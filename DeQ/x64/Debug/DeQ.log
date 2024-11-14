@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Учеба\БНТУ\Прошлые семестры\СиОАД\DeQ AnDS\Version 3.0\DeQ\DeQ\Source.cpp(192,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Учеба\БНТУ\Прошлые семестры\СиОАД\DeQ AnDS\Version 3.0\DeQ\DeQ\Source.cpp(196,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Учеба\БНТУ\Прошлые семестры\СиОАД\DeQ AnDS\Version 3.0\DeQ\DeQ\Source.cpp(200,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Учеба\БНТУ\Прошлые семестры\СиОАД\DeQ AnDS\Version 3.0\DeQ\DeQ\Source.cpp(204,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  DeQ.vcxproj -> D:\Учеба\БНТУ\Прошлые семестры\СиОАД\DeQ AnDS\Version 3.0\DeQ\x64\Debug\DeQ.exe
